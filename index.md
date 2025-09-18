@@ -81,3 +81,10 @@ layout: default
 ## 六、其他碎碎念与注意事项
 
 *   **充值（Recharge）**：到处都能买到充值卡（Carte de Recharge），刮开涂层，拨打指定号码输入密码即可。
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Algeria eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/algeria-data-plans)
